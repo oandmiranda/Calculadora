@@ -1,2 +1,1 @@
-# Calculadora
-Projeto realizado com html, css, bootstrap e javascript
+Projeto realizado com Html, Css, Bootstrap e Javascript
