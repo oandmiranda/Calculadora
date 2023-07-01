@@ -7,6 +7,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
+  min-width: 295px;
 }
 
 .calculadora {
@@ -23,6 +24,11 @@ body {
   height: 50px;
   margin: 5px;
   box-shadow: 1px 1px 1px #000;
+}
+
+.escuro {
+  background-color: #343232;
+  color: #fff;
 }
 
 .clear {
